@@ -123,12 +123,6 @@ I love blending creativity with technology to build amazing things that connect 
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=benjamin23k&icon=0&color=0" alt="Visitor Count"/>
-  </a>
-</p>
-
-<p align="center"><sub>✨ Proudly created with ❤️ by Wilson Benjamin using <a href="https://gprm.itsvg.in">GPRM</a></sub></p>
+<
 
 
