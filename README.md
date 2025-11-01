@@ -35,7 +35,7 @@ I'm 19-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 &nbsp;
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg" height="40" />
 &nbsp;
-<img src="" height="40" />
+
 
 
 ![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
