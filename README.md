@@ -29,7 +29,7 @@ I'm 19-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 ### &nbsp;- Languages
 
 <!-- Lenguajes y tecnologías -->
-<img src="" height="40" />
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" height="40" />
 &nbsp;
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40" />
 &nbsp;
@@ -54,13 +54,6 @@ I'm 19-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 <p align="center">
   <img src="https://github.com/sourabmaity/sourabmaity/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-
-<details>
-<summary></summary>
-
-[![Tap to Reload](https://metrics.lecoq.io/sourabmaity?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/sourabmaity)
-
-</details>
 
 
 
