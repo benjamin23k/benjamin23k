@@ -34,16 +34,16 @@ I love blending creativity with technology to build amazing things that connect 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/benjamin-stack-12a079369/">
     <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://twitter.com">
-    <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_6-twitter_3529664.png" height="40" alt="Twitter"/>
+  <a href="https://x.com/WilsonBenja2">
+    <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_6-twitter_3529664.png" height="40" alt="Twitter/X"/>
   </a>
   &nbsp;
-  <a href="https://stackoverflow.com">
-    <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_StackOverflow_2613280.png" height="40" alt="Stack Overflow"/>
+  <a href="https://meta.stackexchange.com/users/1830069/benjaminstack">
+    <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_StackOverflow_2613280.png" height="40" alt="Stack Overflow / Stack Exchange"/>
   </a>
   &nbsp;
   <a href="https://github.com/benjamin23k">
@@ -98,14 +98,6 @@ I love blending creativity with technology to build amazing things that connect 
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=benjamin23k" alt="Profile Views" />
-  &nbsp;
-  <a href="https://github.com/benjamin23k?tab=followers">
-    <img src="https://img.shields.io/github/followers/benjamin23k?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-</p>
-
 <!-- BLOQUE DE LOS GATOS CENTRADO -->
 <p align="center">
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="180" style="margin-right: 15px;" />
@@ -120,8 +112,6 @@ I love blending creativity with technology to build amazing things that connect 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
-
-
 
 
 
