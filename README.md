@@ -35,8 +35,11 @@ I'm 19-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 
 ![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
 
-## My Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
-| ![](https://github-readme-stats.vercel.app/api?username=sourabmaity&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabmaity) |
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=benjamin23k&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=benjamin23k&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=benjamin23k&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 | --- | --- |
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=sourabmaity) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
@@ -56,7 +59,7 @@ I'm 19-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 
 </details>
 
-## My Github Activity ⚡
+
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/styler/issues/2) in [sourab/styler](https://github.com/r)
@@ -76,5 +79,12 @@ I'm 19-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 
 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=benjamin23k&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
