@@ -29,7 +29,7 @@ I'm 19-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 ### &nbsp;- Languages
 
 <!-- Lenguajes y tecnologías -->
-<img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png" height="40" />
+<img src="" height="40" />
 &nbsp;
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40" />
 &nbsp;
@@ -70,7 +70,12 @@ I'm 19-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 <!--END_SECTION:activity-->
 
 
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=sourabmaity'> <a href="https://github.com/SOURAB-BAPPA?tab=followers"><img src="https://img.shields.io/github/followers/sourabmaity?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=benjamin23k" alt="Profile Views" />
+  &nbsp;
+  <a href="(https://github.com/benjamin23k)?tab=followers">
+    <img src="https://img.shields.io/github/followers/wilsonRD?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
 </p>
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> 
