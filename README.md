@@ -61,9 +61,8 @@ I'm 19-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 ## Watch my contribution graph being eaten by a snake🐍
 
 <p align="center">
-  <img src="https://github.com/sourabmaity/sourabmaity/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
 </p>
-
 
 
 <!--START_SECTION:activity-->
