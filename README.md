@@ -28,9 +28,14 @@ I'm 19-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 
 ### &nbsp;- Languages
 
-<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png' height='40'/>&nbsp;<img src = 'https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white' height='40'/>&nbsp;<img src = 'https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white' height='40'/>&nbsp; <img src = '[https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/html.png](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)' width='40'/>&nbsp;
-
-
+<!-- Lenguajes y tecnologías -->
+<img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png" height="40" />
+&nbsp;
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40" />
+&nbsp;
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" height="40" />
+&nbsp;
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="40" />
 
 
 ![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
