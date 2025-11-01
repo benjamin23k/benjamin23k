@@ -35,32 +35,32 @@ I love blending creativity with technology to build amazing things that connect 
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/benjamin-stack-12a079369/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/benjamin-stack-12a079369/">
+    <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png" height="40" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   
-  <!-- X (Twitter) -->
-  <a href="https://x.com/WilsonBenja2" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="40" alt="Twitter/X" style="filter: invert(100%);" />
+  <!-- Twitter / X -->
+  <a href="https://x.com/WilsonBenja2">
+    <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_6-twitter_3529664.png" height="40" alt="Twitter/X"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   
   <!-- Instagram -->
-  <a href="https://www.instagram.com/bxbyy.ben/?next=%2F" target="_blank">
+  <a href="https://www.instagram.com/bxbyy.ben/?next=%2F">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="40" alt="Instagram"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   
   <!-- Stack Exchange -->
-  <a href="https://meta.stackexchange.com/users/1830069/benjaminstack" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackexchange.svg" height="40" alt="Stack Exchange" style="filter: invert(100%);" />
+  <a href="https://meta.stackexchange.com/users/1830069/benjaminstack">
+    <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_StackOverflow_2613280.png" height="40" alt="Stack Exchange"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   
   <!-- GitHub -->
-  <a href="https://github.com/benjamin23k" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <a href="https://github.com/benjamin23k">
+    <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png" height="40" alt="GitHub"/>
   </a>
 </p>
 
