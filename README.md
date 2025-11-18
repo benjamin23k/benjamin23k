@@ -68,6 +68,8 @@ I love blending creativity with technology to build amazing things that connect 
 
 ## 👨‍💻 Talking to Computers Using:
 
+---
+
 ### Skills
 
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
@@ -75,6 +77,7 @@ I love blending creativity with technology to build amazing things that connect 
 </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </p>
+---
 
 ### Learning 
 
@@ -97,6 +100,7 @@ I love blending creativity with technology to build amazing things that connect 
   <!-- Herramientas -->
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
+---
 <p align="center">
   <img src="https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif" alt="Dino Game GIF"/>
 </p>
