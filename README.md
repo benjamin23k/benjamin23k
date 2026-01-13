@@ -116,7 +116,7 @@ I love blending creativity with technology to build amazing things that connect 
 
 
 </p>
----
+
 
 ## 🐍 Watch My Contribution Graph Being Eaten by a Snake
 
