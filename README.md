@@ -111,12 +111,7 @@ I love blending creativity with technology to build amazing things that connect 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benjamin23k&theme=synthwave&show_icons=true" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=benjamin23k&theme=synthwave" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjamin23k&theme=synthwave&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjamin23k&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
 </p>
 ---
 
