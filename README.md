@@ -110,18 +110,14 @@ I love blending creativity with technology to build amazing things that connect 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <!-- Tarjeta de Estadísticas Generales -->
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=benjamin23k&theme=synthwave&show_icons=true" height="150" />
-  
-  <!-- Tarjeta de Racha (Streak) - Usando el servidor más estable -->
   <img src="https://streak-stats.demolab.com/?user=benjamin23k&theme=synthwave" height="150" />
-  
-  <br/>
+</p>
 
-  <!-- Tarjeta de Lenguajes -->
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjamin23k&theme=synthwave&layout=compact" height="150" />
-</div>
+</p>
 ---
 
 ## 🐍 Watch My Contribution Graph Being Eaten by a Snake
