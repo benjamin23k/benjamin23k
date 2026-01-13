@@ -111,12 +111,9 @@ I love blending creativity with technology to build amazing things that connect 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benjamin23k&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false" height="150" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=benjamin23k&theme=synthwave&hide_border=false" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjamin23k&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=benjamin23k&theme=synthwave&show_icons=true&count_private=true" height="150" alt="Stats de Benjamin" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benjamin23k&theme=synthwave" height="150" alt="Racha de Benjamin" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjamin23k&theme=synthwave&layout=compact" height="150" alt="Lenguajes de Benjamin" />
 </p>
 
 ---
