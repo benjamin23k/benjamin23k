@@ -108,14 +108,7 @@ I love blending creativity with technology to build amazing things that connect 
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=benjamin23k&theme=synthwave&hide_border=false" height="150" />
-
-
-</p>
 
 
 ## 🐍 Watch My Contribution Graph Being Eaten by a Snake
