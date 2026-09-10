@@ -190,8 +190,6 @@ Bot inteligente para WhatsApp que observa la actividad de grupos, almacena mensa
   src="./assets/puccake.png"
   width="100%"
   alt="Puccake Preview"
-/>
-    />
   </a>
 </p>
 
