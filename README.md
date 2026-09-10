@@ -187,10 +187,10 @@ Bot inteligente para WhatsApp que observa la actividad de grupos, almacena mensa
   <a href="https://github.com/benjamin23k/puccake-sweet-spot">
    <img
   src="./assets/puccake.png"
-  width="300"
+  width="320"
 
 
-/>
+
   </a>
 </p>
 
