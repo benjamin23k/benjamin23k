@@ -1,4 +1,61 @@
-## 🚀 Featured Projects
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=55&vCenter=true&center=true&width=900&height=100&duration=3500&color=FFB45C&lines=Hola,+soy+Wilson+Benjamin;Desarrollador+de+Software;Construyendo+ideas+con+código;Código.+Creatividad.+Tecnología."
+  />
+</h1>
+
+<p align="center">
+  <b>Software Developer • IA • Backend • Automatización</b>
+</p>
+
+<p align="center">
+  🇩🇴 República Dominicana
+</p>
+
+<p align="center">
+  <a href="https://github.com/benjamin23k">
+    <img src="https://komarev.com/ghpvc/?username=benjamin23k&label=Visitas&style=for-the-badge&color=FFB45C" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/benjamin23k">
+    <img
+      src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+      width="100%"
+    />
+  </a>
+</p>
+
+---
+
+## 🐈‍⬛ Sobre mí
+
+<img
+  width="42%"
+  align="right"
+  alt="Coding"
+  src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"
+/>
+
+Soy **Wilson Benjamin**, estudiante de **Desarrollo de Software** 🇩🇴.
+
+Me gusta construir proyectos donde la programación se mezcla con la creatividad: bots, inteligencia artificial, videojuegos, automatización y aplicaciones que resuelven problemas reales.
+
+- 💻 Desarrollo principalmente con **C#, Python y TypeScript**
+- 🤖 Explorando **Inteligencia Artificial y automatización**
+- ⚙️ Interesado en **Backend, arquitectura de software y APIs**
+- 🎮 Me gusta convertir ideas de videojuegos en proyectos reales
+- 🎨 También disfruto el **pixel art y el diseño digital**
+- 🐧 Usuario de Linux
+- 🎸 Aprendiendo guitarra
+- 🌙 Probablemente programando cuando debería estar durmiendo
+
+<br clear="right"/>
+
+---
+
+# 🐾 Proyectos destacados
 
 <table>
 <tr>
@@ -8,23 +65,25 @@
 
 <p align="center">
   <a href="https://github.com/benjamin23k/Xyron-habitquest">
-    <img src="./assets/xyron-preview.png" width="100%" alt="XYRON Preview"/>
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin23k&repo=Xyron-habitquest&theme=transparent&hide_border=true"
+      alt="XYRON"
+    />
   </a>
 </p>
 
-<p>
-A gamified <b>self-improvement platform</b> that transforms your real-life progress into an RPG-style progression system.
-</p>
+Una plataforma de desarrollo personal gamificada donde tus hábitos, estudios y objetivos se convierten en una experiencia estilo RPG.
 
-<p>
-🎯 Missions & habits<br>
-⭐ XP & leveling system<br>
-📊 Dynamic attributes<br>
-🔥 Streak tracking<br>
-📅 Calendar & history<br>
-🪙 Virtual economy<br>
-🔐 Authentication
-</p>
+### Características
+
+- 🎯 Sistema de hábitos y misiones
+- ⭐ XP y niveles
+- 📊 Atributos dinámicos
+- 🔥 Rachas
+- 📅 Calendario e historial
+- 🪙 Economía virtual
+- 🔐 Autenticación
+- 🧠 Atributos personalizados
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,vite,supabase" />
@@ -32,7 +91,9 @@ A gamified <b>self-improvement platform</b> that transforms your real-life progr
 
 <p align="center">
   <a href="https://github.com/benjamin23k/Xyron-habitquest">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/VER_REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white"
+    />
   </a>
 </p>
 
@@ -44,23 +105,25 @@ A gamified <b>self-improvement platform</b> that transforms your real-life progr
 
 <p align="center">
   <a href="https://github.com/benjamin23k/PikaBot">
-    <img src="./assets/pikabot-preview.png" width="100%" alt="PikaBot Preview"/>
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin23k&repo=PikaBot&theme=transparent&hide_border=true"
+      alt="PikaBot"
+    />
   </a>
 </p>
 
-<p>
-A Pokémon-inspired <b>Discord RPG</b> with exploration, battles, progression and a complete Pokémon ecosystem directly inside Discord.
-</p>
+Un RPG inspirado en Pokémon que vive dentro de Discord, con exploración, capturas, combates, entrenadores y progresión.
 
-<p>
-⚔️ Battle engine<br>
-🎯 Pokémon capture system<br>
-🗺️ Passive exploration<br>
-✨ Shinies, IVs & variants<br>
-🏆 Trainer progression<br>
-🎒 Inventory & economy<br>
-🎨 Dynamic battle rendering
-</p>
+### Características
+
+- ⚔️ Motor de combate
+- 🎯 Captura de Pokémon
+- 🗺️ Exploración pasiva
+- ✨ Shinies, IVs y variantes
+- 🏆 Progresión de entrenador
+- 🎒 Inventario
+- 💰 Economía
+- 🎨 Renderizado dinámico de combates
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres" />
@@ -68,7 +131,9 @@ A Pokémon-inspired <b>Discord RPG</b> with exploration, battles, progression an
 
 <p align="center">
   <a href="https://github.com/benjamin23k/PikaBot">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/VER_REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white"
+    />
   </a>
 </p>
 
@@ -82,22 +147,24 @@ A Pokémon-inspired <b>Discord RPG</b> with exploration, battles, progression an
 
 <p align="center">
   <a href="https://github.com/benjamin23k/ResumeBot">
-    <img src="./assets/el-testigo-preview.png" width="100%" alt="El Testigo Preview"/>
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin23k&repo=ResumeBot&theme=transparent&hide_border=true"
+      alt="El Testigo"
+    />
   </a>
 </p>
 
-<p>
-An intelligent <b>WhatsApp conversation summarizer</b> designed to understand group activity and generate contextual summaries.
-</p>
+Bot inteligente para WhatsApp que observa la actividad de grupos, almacena mensajes y genera resúmenes contextuales usando IA.
 
-<p>
-💬 WhatsApp integration<br>
-🧠 AI-powered summaries<br>
-🗃️ Message history<br>
-✏️ Edited message tracking<br>
-🎙️ Text-to-speech summaries<br>
-⏰ Automatic scheduled summaries
-</p>
+### Características
+
+- 💬 Integración con WhatsApp
+- 🧠 Resúmenes mediante IA
+- 🗃️ Historial de mensajes
+- ✏️ Seguimiento de mensajes editados
+- 🎙️ Resúmenes por voz
+- ⏰ Resúmenes automáticos
+- 🧾 Persistencia con SQLite
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,js,sqlite" />
@@ -105,7 +172,9 @@ An intelligent <b>WhatsApp conversation summarizer</b> designed to understand gr
 
 <p align="center">
   <a href="https://github.com/benjamin23k/ResumeBot">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/VER_REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white"
+    />
   </a>
 </p>
 
@@ -117,21 +186,22 @@ An intelligent <b>WhatsApp conversation summarizer</b> designed to understand gr
 
 <p align="center">
   <a href="https://github.com/benjamin23k/puccake-sweet-spot">
-    <img src="./assets/puccake-preview.png" width="100%" alt="Puccake Preview"/>
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=benjamin23k&repo=puccake-sweet-spot&theme=transparent&hide_border=true"
+      alt="Puccake"
+    />
   </a>
 </p>
 
-<p>
-A modern pastry-shop experience focused on <b>visual identity, product discovery and responsive UI design</b>.
-</p>
+Una página web moderna para una marca de repostería, enfocada en identidad visual, productos y experiencia de usuario.
 
-<p>
-🧁 Product showcase<br>
-🎨 Custom brand identity<br>
-📱 Responsive interface<br>
-🛍️ Product catalog<br>
-✨ Modern animations & UI
-</p>
+### Características
+
+- 🧁 Catálogo de productos
+- 🎨 Identidad visual personalizada
+- 📱 Diseño responsive
+- 🛍️ Presentación de productos
+- ✨ Interfaz moderna
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,html,css" />
@@ -139,7 +209,9 @@ A modern pastry-shop experience focused on <b>visual identity, product discovery
 
 <p align="center">
   <a href="https://github.com/benjamin23k/puccake-sweet-spot">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/VER_REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white"
+    />
   </a>
 </p>
 
@@ -149,17 +221,117 @@ A modern pastry-shop experience focused on <b>visual identity, product discovery
 
 <p align="center">
   <a href="https://github.com/benjamin23k?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Projects-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/EXPLORAR_TODOS_LOS_PROYECTOS-FFB45C?style=for-the-badge&logo=github&logoColor=000000"
+    />
   </a>
 </p>
 
+---
 
-### ✍️ Random Dev Quote
+# 🎥 YouTube
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <b>Programación • Proyectos • Experimentos • Aprendizaje</b>
 </p>
 
+<p align="center">
+  <a href="TU_CANAL_YOUTUBE">
+    <img
+      src="https://img.shields.io/badge/YouTube-Wilson_Benjamin-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+    />
+  </a>
+</p>
 
+<p align="center">
+Comparto mi proceso aprendiendo programación, construyendo proyectos y experimentando con nuevas tecnologías.
+</p>
 
+---
 
+# 🤝 Conecta conmigo
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/benjamin-stack-12a079369/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+
+  <a href="https://x.com/WilsonBenja2">
+    <img
+      src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/bxbyy.ben/">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    />
+  </a>
+
+  <a href="TU_CANAL_YOUTUBE">
+    <img
+      src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+    />
+  </a>
+
+  <a href="https://github.com/benjamin23k">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
+
+</p>
+
+---
+
+# 💻 Tecnologías
+
+## Lenguajes
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,python,java,cpp,js,ts,html,css,php" />
+</p>
+
+---
+
+## Frameworks y tecnologías
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express,vite,supabase" />
+</p>
+
+---
+
+## Bases de datos
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" />
+</p>
+
+---
+
+## Herramientas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,figma" />
+</p>
+
+---
+
+# 📚 Actualmente aprendiendo
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,python,ts,react,dotnet,docker,linux" />
+</p>
+
+```txt
+Backend Development
+Artificial Intelligence
+Software Architecture
+APIs
+Full Stack Development
+Automation
+Cybersecurity
