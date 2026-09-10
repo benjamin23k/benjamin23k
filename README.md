@@ -148,7 +148,7 @@ Un RPG inspirado en Pokémon que vive dentro de Discord, con exploración, captu
 <p align="center">
   <a href="https://github.com/benjamin23k/ResumeBot">
     <img
-      src="./assets/el%20testigo.png" width="400" height="225" alt="El Testigo Preview"
+      src="./assets/el%20testigo.png" width="400"  alt="El Testigo Preview"
       
   </a>
 </p>
@@ -188,7 +188,7 @@ Bot inteligente para WhatsApp que observa la actividad de grupos, almacena mensa
    <img
   src="./assets/puccake.png"
   width="400"
-  height="225"
+
   alt="Puccake Preview"
 />
   </a>
