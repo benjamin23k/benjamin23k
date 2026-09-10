@@ -150,7 +150,6 @@ Un RPG inspirado en Pokémon que vive dentro de Discord, con exploración, captu
     <img
       src="./assets/el%20testigo.png" width="100%" alt="El Testigo Preview">"
       
-    />
   </a>
 </p>
 
