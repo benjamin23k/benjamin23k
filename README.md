@@ -148,7 +148,7 @@ Un RPG inspirado en Pokémon que vive dentro de Discord, con exploración, captu
 <p align="center">
   <a href="https://github.com/benjamin23k/ResumeBot">
     <img
-      src="./assets/el%20testigo.png" width="100%" alt="El Testigo Preview"
+      src="./assets/el%20testigo.png" width="400" height="225" alt="El Testigo Preview"
       
   </a>
 </p>
